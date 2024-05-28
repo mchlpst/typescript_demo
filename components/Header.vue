@@ -11,6 +11,12 @@
         <li>
           <NuxtLink to="exercise-3">Exercise 3</NuxtLink>
         </li>
+        <li>
+          <NuxtLink to="exercise-4">Exercise 4</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="exercise-5">Exercise 5</NuxtLink>
+        </li>
       </ul>
     </nav>
   </header>

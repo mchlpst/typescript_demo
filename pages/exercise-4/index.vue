@@ -1,10 +1,14 @@
-this will be an exercise where we type return values of functions and declare
-the undefined or option for different types in functions.
+In this exercise we will combine two properties two one an make typescript fully
+understand that we do that.
 
-<template></template>
-<script setup lang="ts"></script>
+<template>
+  <Exercise4 :data="data" />
+</template>
+<script setup lang="ts">
+import { data } from "../../static/data/Exercise4";
+</script>
 <style scoped lang="scss">
-$component: "exercise-4";
+$component: "exercise-4-page";
 
 .#{$component} {
 }

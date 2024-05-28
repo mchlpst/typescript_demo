@@ -38,38 +38,16 @@ yarn dev
 bun run dev
 ```
 
-## Production
+# Introduciton
 
-Build the application for production:
+This is a typescript trainingsapp. In this app there some exercises that will train core TypeScript principes. And how to implent then in a Nuxt3.js app.
 
-```bash
-# npm
-npm run build
+[Exercise 1](/static/exercises/exercise1.md)
 
-# pnpm
-pnpm run build
+[Exercise 2](/static/exercises/exercise2.md)
 
-# yarn
-yarn build
+[Exercise 3](/static/exercises/exercise3.md)
 
-# bun
-bun run build
-```
+[Exercise 4](/static/exercises/exercise4.md)
 
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+[Exercise 5](/static/exercises/exercise5.md)
