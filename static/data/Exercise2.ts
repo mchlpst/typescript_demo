@@ -1,4 +1,4 @@
-export const data: TextComponent = {
+export const data = {
   title: 'Oefening 2',
   text: '<p>De oefen text die ervoor zorgt dat het allemaal werkt.</p>',
   button: {
