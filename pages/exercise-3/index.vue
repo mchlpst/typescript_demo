@@ -1,7 +1,6 @@
-this will be an exercise thats working with an interface that will be using
-declaration merging.
-
-<template><Exercise3 :data="data" /></template>
+<template>
+  <Exercise3 :data="data" />
+</template>
 <script setup lang="ts">
 import { data } from "../../static/data/Exercise3";
 </script>

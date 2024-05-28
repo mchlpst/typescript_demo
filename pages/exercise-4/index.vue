@@ -1,6 +1,3 @@
-In this exercise we will combine two properties two one an make typescript fully
-understand that we do that.
-
 <template>
   <Exercise4 :data="data" />
 </template>
